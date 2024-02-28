@@ -94,6 +94,4 @@ and that is my G-mail:
 
 with respect
 
-<img src="IMG_20240223_002002.jpg" alt="Mohammad Rasoul Azizi" width="300"/>
-
 
