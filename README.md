@@ -41,7 +41,7 @@ if you want to know about my professional  work I can say:
     - *Programming professor **code camp course** for teenagers of Mazandaran.(1 month, Full-time, Hybrid)*
     - ***Produce educational content**. (Remote)*
     - ***Educational consultant in the field of programming**. (Remote)*
-- ***Freelancer** in the fields of programming and artificial intelligence and machine learning.*
+- **Freelancer** *in the fields of programming and artificial intelligence and machine learning.*
 --- 
 ## Skills:
 Professional Feild:
