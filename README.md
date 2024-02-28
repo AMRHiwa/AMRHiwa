@@ -46,7 +46,7 @@ if you want to know about my professional  work I can say:
 
 now if you want to know more about:
 
-* [Linkdin Profile]('https://www.linkedin.com/in/mohammad-rasoul-azizi-18a14320b)
+* [Linkdin Profile](https://www.linkedin.com/in/mohammad-rasoul-azizi-18a14320b)
 * [Telegram](https://t.me/Mohammad_Rasoul_Azizi)
 
 and that is my G-mail:
