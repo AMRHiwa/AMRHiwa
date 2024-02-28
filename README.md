@@ -43,6 +43,45 @@ if you want to know about my professional  work I can say:
     - ***Educational consultant in the field of programming**. (Remote)*
 - ***Freelancer** in the fields of programming and artificial intelligence and machine learning.*
 --- 
+## Skills:
+Professional Feild:
+
+![Static Badge](https://img.shields.io/badge/Machine%20Learning-Hiegh-green?style=for-the-badge&color=green)
+![Static Badge](https://img.shields.io/badge/Data%20Analysis-Hiegh-green?style=for-the-badge&color=green)
+![Static Badge](https://img.shields.io/badge/Teaching-Hiegh-green?style=for-the-badge&color=green)
+
+Specialized technology:
+
+![Static Badge](https://img.shields.io/badge/python-heigh-green?style=for-the-badge&logo=python&color=grean)
+![Static Badge](https://img.shields.io/badge/Pandas-Heigh-green?style=for-the-badge&logo=python&color=grean)
+![Static Badge](https://img.shields.io/badge/Matplotlib-Heigh-green?style=for-the-badge&logo=python&color=grean)
+![Static Badge](https://img.shields.io/badge/Sklearn-heigh-green?style=for-the-badge&logo=python&color=grean)
+![Static Badge](https://img.shields.io/badge/Numpy-Heigh-green?style=for-the-badge&logo=python&color=grean)
+![Static Badge](https://img.shields.io/badge/tkinter-Medium-blue?style=for-the-badge&logo=python&color=blue)
+![Static Badge](https://img.shields.io/badge/regex-medium-blue?style=for-the-badge&logo=python&color=blue)
+![Static Badge](https://img.shields.io/badge/pyqt-Medium-blue?style=for-the-badge&logo=python&color=blue)
+![Static Badge](https://img.shields.io/badge/xgboost-medium-blue?style=for-the-badge&logo=python&color=blue)
+![Static Badge](https://img.shields.io/badge/Beautiful%20Soup-low-red?style=for-the-badge&logo=python&color=red)
+![Static Badge](https://img.shields.io/badge/H2O-low-red?style=for-the-badge&logo=python&color=red)
+![Static Badge](https://img.shields.io/badge/streamlit-low-red?style=for-the-badge&logo=python&color=red)
+
+Intermediary technologies:
+
+![Static Badge](https://img.shields.io/badge/git-heigh-blue?style=for-the-badge&logo=git&color=re)
+![Static Badge](https://img.shields.io/badge/Ubuntu-Medium-blue?style=for-the-badge&logo=linux&color=blue)
+![Static Badge](https://img.shields.io/badge/mysql-medium-blue?style=for-the-badge&logo=mysql&color=blue)
+
+Other Language:
+
+![Static Badge](https://img.shields.io/badge/c%2B%2B-medium-blue?style=for-the-badge&logo=c%2B%2B&color=blue)
+![Static Badge](https://img.shields.io/badge/c-medium-blue?style=for-the-badge&logo=c&color=blue)
+
+![Static Badge](https://img.shields.io/badge/html5-low-red?style=for-the-badge&logo=html5&color=red)
+![Static Badge](https://img.shields.io/badge/css-low-red?style=for-the-badge&logo=css3&color=red)
+
+---
+
+
 
 now if you want to know more about:
 
