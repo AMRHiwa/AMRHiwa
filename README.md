@@ -29,7 +29,7 @@ if you want to know about my professional  work I can say:
 - **Python course instructor** *, Kermanshah Hoosh Masnoei academy · (8 months, Part-time.)*
 - **Mazandaran University:**
     - ***Professor of Python programming*** *for undergraduate students of computer science.*
-    - **Professor of advanced programming** *for undergraduate mathematics students.*
+    - ***Professor of advanced programming** for undergraduate mathematics students.*
 - **Workshop:**
     - ***Instructor of the introductory Python*** *training workshop under the management of the Scientific and Mathematical Association of the students of the country. (2 months, Part-time.)*
     - ***Instructor of advanced Python*** *training workshop under the management of the Scientific and Mathematical Association of the students of the country. (2 months, Part-time.)*
@@ -53,14 +53,17 @@ Professional Feild:
 Specialized technology:
 
 ![Static Badge](https://img.shields.io/badge/python-heigh-green?style=for-the-badge&logo=python&color=grean)
+
 ![Static Badge](https://img.shields.io/badge/Pandas-Heigh-green?style=for-the-badge&logo=python&color=grean)
 ![Static Badge](https://img.shields.io/badge/Matplotlib-Heigh-green?style=for-the-badge&logo=python&color=grean)
 ![Static Badge](https://img.shields.io/badge/Sklearn-heigh-green?style=for-the-badge&logo=python&color=grean)
 ![Static Badge](https://img.shields.io/badge/Numpy-Heigh-green?style=for-the-badge&logo=python&color=grean)
+
 ![Static Badge](https://img.shields.io/badge/tkinter-Medium-blue?style=for-the-badge&logo=python&color=blue)
 ![Static Badge](https://img.shields.io/badge/regex-medium-blue?style=for-the-badge&logo=python&color=blue)
 ![Static Badge](https://img.shields.io/badge/pyqt-Medium-blue?style=for-the-badge&logo=python&color=blue)
 ![Static Badge](https://img.shields.io/badge/xgboost-medium-blue?style=for-the-badge&logo=python&color=blue)
+
 ![Static Badge](https://img.shields.io/badge/Beautiful%20Soup-low-red?style=for-the-badge&logo=python&color=red)
 ![Static Badge](https://img.shields.io/badge/H2O-low-red?style=for-the-badge&logo=python&color=red)
 ![Static Badge](https://img.shields.io/badge/streamlit-low-red?style=for-the-badge&logo=python&color=red)
@@ -68,6 +71,7 @@ Specialized technology:
 Intermediary technologies:
 
 ![Static Badge](https://img.shields.io/badge/git-heigh-blue?style=for-the-badge&logo=git&color=re)
+
 ![Static Badge](https://img.shields.io/badge/Ubuntu-Medium-blue?style=for-the-badge&logo=linux&color=blue)
 ![Static Badge](https://img.shields.io/badge/mysql-medium-blue?style=for-the-badge&logo=mysql&color=blue)
 
