@@ -1,3 +1,6 @@
+<img src="https://myreadme.vercel.app/api/embed/AMRHiwa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
 In the name of God of knowledge, love and courtesy.
 
 Hi everyone :)
@@ -89,8 +92,9 @@ Other Language:
 
 now if you want to know more about:
 
-* [Linkdin Profile](https://www.linkedin.com/in/mohammad-rasoul-azizi-18a14320b)
-* [Telegram](https://t.me/Mohammad_Rasoul_Azizi)
+<a href="https://www.linkedin.com/in/mohammad-rasoul-azizi-18a14320b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/azizi.mr98/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://t.me/Mohammad_Rasoul_Azizi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Facebook"></a>
 
 and that is my G-mail:
 
