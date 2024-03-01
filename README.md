@@ -4,22 +4,40 @@ Hi everyone :)
 
 My name is Mohammad Rasul Azizi, senior expert in artificial intelligence, trainer and Teaching instructor of Python and C++ programming.
 
-if you want to know me <a href='#bio-id'>Click Me!</a>
+to access the projects <a href='#projects'>Click Me!</a>
+
+if you want to know me more <a href='#bio-id'>Click Me!</a>
 
 <img src="https://myreadme.vercel.app/api/embed/AMRHiwa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMRHiwa&show_icons=true&locale=en&layout=compact&theme=chartreuse" alt="ovi" />
 
-list of projects:
+<h3 id='projects'>Project :</h3>
+
+* <a href='#python_projects'>Python Projects </a>
+* <a href='#ml_projects'>Machine Learning Projects </a>
+* <a href=''>Educational Projects </a>
+
+<h4 id='python_projects'>list of python projects:</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=to_do_list_python)](https://github.com/AMRHiwa/to_do_list_python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=security_checker)](https://github.com/AMRHiwa/security_checker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Student_score_management)](https://github.com/AMRHiwa/Student_score_management)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=email-and-password-store)](https://github.com/AMRHiwa/email-and-password-store
-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=email-and-password-store)](https://github.com/AMRHiwa/email-and-password-store)
 
 
 
+
+<h4 id='ml_projects'>list of Machine Learning projects:</h4>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=-IMDB-website-recommender-system)](https://github.com/AMRHiwa/-IMDB-website-recommender-system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Churn-modelling)](https://github.com/AMRHiwa/Churn-modelling)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Credit-card-fraud-)](https://github.com/AMRHiwa/Credit-card-fraud-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Corona-vaccination)](https://github.com/AMRHiwa/Corona-vaccination)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=car-price-predict)](https://github.com/AMRHiwa/car-price-predict)
+
+<h4 id=''>list of Educational projects:</h4>
+updating ...
 
 <h4 id='bio-id'> Let's get to know me more.</h4>
 
