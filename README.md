@@ -1,6 +1,3 @@
-<img src="https://myreadme.vercel.app/api/embed/AMRHiwa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-
 In the name of God of knowledge, love and courtesy.
 
 Hi everyone :)
@@ -8,6 +5,21 @@ Hi everyone :)
 My name is Mohammad Rasul Azizi, senior expert in artificial intelligence, trainer and Teaching instructor of Python and C++ programming.
 
 if you want to know me <a href='#bio-id'>Click Me!</a>
+
+<img src="https://myreadme.vercel.app/api/embed/AMRHiwa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMRHiwa&show_icons=true&locale=en&layout=compact&theme=chartreuse" alt="ovi" />
+
+list of projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=to_do_list_python)](https://github.com/AMRHiwa/to_do_list_python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=security_checker)](https://github.com/AMRHiwa/security_checker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Student_score_management)](https://github.com/AMRHiwa/Student_score_management)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=email-and-password-store)](https://github.com/AMRHiwa/email-and-password-store
+)
+
+
+
 
 <h4 id='bio-id'> Let's get to know me more.</h4>
 
