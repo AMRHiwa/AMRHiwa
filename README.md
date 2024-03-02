@@ -37,6 +37,10 @@ if you want to know me more <a href='#bio-id'>Click Me!</a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=car-price-predict)](https://github.com/AMRHiwa/car-price-predict)
 
 <h4 id=''>list of Educational projects:</h4>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Python_exercises)](https://github.com/AMRHiwa/Python_exercises)
+
+
 updating ...
 
 <h4 id='bio-id'> Let's get to know me more.</h4>
