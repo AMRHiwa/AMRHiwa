@@ -39,6 +39,7 @@ if you want to know me more <a href='#bio-id'>Click Me!</a>
 <h4 id=''>list of Educational projects:</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Python_exercises)](https://github.com/AMRHiwa/Python_exercises)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Turtle_projects_Babol_kids)](https://github.com/AMRHiwa/Turtle_projects_Babol_kids)
 
 
 updating ...
