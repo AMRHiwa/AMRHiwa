@@ -1,4 +1,4 @@
-<img src="welcome to My(1).png" alt="Mohammad Rasoul Azizi" width=150%>
+<img src="welcome to My(1).png" alt="Mohammad Rasoul Azizi" width=100%>
 
 In the name of God of knowledge, love and courtesy.
 
