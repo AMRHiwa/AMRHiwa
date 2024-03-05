@@ -18,7 +18,7 @@ if you want to know me more <a href='#bio-id'>Click Me!</a>
 
 * <a href='#python_projects'>Python Projects </a>
 * <a href='#ml_projects'>Machine Learning Projects </a>
-* <a href=''>Educational Projects </a>
+* <a href='#ed_project'>Educational Projects </a>
 
 <h4 id='python_projects'>list of python projects:</h4>
 
@@ -38,7 +38,7 @@ if you want to know me more <a href='#bio-id'>Click Me!</a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Corona-vaccination)](https://github.com/AMRHiwa/Corona-vaccination)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=car-price-predict)](https://github.com/AMRHiwa/car-price-predict)
 
-<h4 id=''>list of Educational projects:</h4>
+<h4 id='ed_project'>list of Educational projects:</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Python_exercises)](https://github.com/AMRHiwa/Python_exercises)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Turtle_projects_Babol_kids)](https://github.com/AMRHiwa/Turtle_projects_Babol_kids)
