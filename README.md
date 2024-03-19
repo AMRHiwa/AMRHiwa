@@ -33,8 +33,7 @@ if you want to know me more <a href='#bio-id'>Click Me!</a>
 <h4 id='eda_projects'>list of Data Analysis projects:</h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Hotel_booking_Data_Exploration)](https://github.com/AMRHiwa/Hotel_booking_Data_Exploration)
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=bicycle_EDA)](https://github.com/AMRHiwa/bicycle_EDA)
 
 <h4 id='ml_projects'>list of Machine Learning projects:</h4>
 
