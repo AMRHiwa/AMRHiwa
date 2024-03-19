@@ -18,6 +18,7 @@ if you want to know me more <a href='#bio-id'>Click Me!</a>
 
 * <a href='#python_projects'>Python Projects </a>
 * <a href='#ml_projects'>Machine Learning Projects </a>
+* <a href='#eda_projects'>Data Analysis Projects</a>
 * <a href='#ed_project'>Educational Projects </a>
 
 <h4 id='python_projects'>list of python projects:</h4>
@@ -27,6 +28,11 @@ if you want to know me more <a href='#bio-id'>Click Me!</a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Student_score_management)](https://github.com/AMRHiwa/Student_score_management)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=email-and-password-store)](https://github.com/AMRHiwa/email-and-password-store)
 
+
+
+<h4 id='eda_projects'>list of Data Analysis projects:</h4>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRHiwa&repo=Hotel_booking_Data_Exploration)](https://github.com/AMRHiwa/Hotel_booking_Data_Exploration)
 
 
 
